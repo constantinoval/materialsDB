@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file alias="add">icons/iconmonstr-plus-1-240.png</file>
+    <file alias="compression">icons/compression.png</file>
+    <file alias="notes">icons/iconmonstr-menu-1-240.png</file>
+    <file alias="trash">icons/iconmonstr-trash-can-18-240.png</file>
+    <file alias="x">icons/iconmonstr-x-mark-8-240.png</file>
+  </qresource>
+</RCC>
